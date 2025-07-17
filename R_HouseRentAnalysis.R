@@ -1,8 +1,4 @@
-#Vinnie Teh, TP064168
-#Edward Ding Hong Wai, TP065396
-#Lai Tzi Syuen Suzanne, TP068173
-#Tan Jia Ling, TP068255
-#APD2F2306CS(IS)
+
 
 #====LOAD LIBRARIES========
 library(summarytools)
